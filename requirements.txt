@@ -1,0 +1,4 @@
+pymavlink==2.4.39
+dronekit==2.9.2
+geopy==2.3.0
+get-key
